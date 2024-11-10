@@ -1,0 +1,76 @@
+{
+  "main": [
+    {
+      "name": "App",
+      "url": "/"
+    },
+    {
+      "name": "Projects",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Running Projects",
+          "url": "/"
+        },
+        {
+          "name": "Flood Affected",
+          "url": "/"
+        },
+        {
+          "name": "Gaza Appeal",
+          "url": "/"
+        },
+        {
+          "name": "Zakat",
+          "url": "/"
+        },
+        {
+          "name": "Madrasa",
+          "url": "/"
+        },
+        {
+          "name": "Beneficial Tech",
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "name": "About Us",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "SME Disability & Inclusive Program",
+          "url": "/"
+        },
+        {
+          "name": "Our Story",
+          "url": "/"
+        },
+        {
+          "name": "Timeline",
+          "url": "/"
+        },
+        {
+          "name": "Privacy policy",
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "name": "Orgs",
+      "url": "/"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Elements",
+      "url": "/elements"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    }
+  ]
+}
