@@ -55,7 +55,7 @@ const Home = ({ params }: { params: { lang: string } }) => {
   return (
     <>
       <SeoMeta />
-      <section className="section bg-[#ffffffef] bg-[url('/images/banner-bg.jpeg')] bg-cover bg-center bg-blend-overlay	bg-fixed bg-no-repeat pt-14">
+      <section className="section bg-[#ffffffef] bg-[url('/images/banner-bg.jpeg')] bg-cover bg-center bg-blend-overlay	bg-fixed bg-no-repeat pt-[190px]">
         <div className="container">
           <div className="row justify-center px-20 py-12">
             <div className="col-7">

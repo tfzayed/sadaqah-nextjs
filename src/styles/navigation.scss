@@ -12,7 +12,8 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 
 .header {
-  @apply bg-body p-4;
+  @apply p-4;
+  transition: background-color 0.3s ease;
 }
 
 // navbar items
